@@ -21,8 +21,8 @@ public class Compare5Numbers {
         System.out.println("Enter 5th number: ");
         int num5 = sc.nextInt();
 
-        int smallest = 0;
-        int largest = 0;
+        int smallest;
+        int largest;
 
         if (num1 > num2) {
             largest = num1;
