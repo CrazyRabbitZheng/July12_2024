@@ -4,7 +4,7 @@ import java.util.Scanner;
  * takes 2 inputs
  * compare and display the larger
  */
-public class Compare {
+public class Compare3Numbers {
 
     public static void main(String[] args) {
 
