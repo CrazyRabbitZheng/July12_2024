@@ -1,6 +1,6 @@
 /**
  * This class holds a square and cube table for numbers 2 to 9
- * @author--Zheng Wang Stu.ID: 20085058
+ * @author--Zheng Wang
  */
 public class SquareCubeTable {
     public static void main(String[] args) {
