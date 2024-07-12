@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * This class takes in a 5-digit integer and prints the integer with spaces between each digit
- * @author--Zheng Wang Stu.ID: 20085058
+ * @author--Zheng Wang
  */
 public class IntegerDigits {
     public static void main(String[] args) {

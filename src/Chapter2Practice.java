@@ -1,6 +1,6 @@
 /**
  * Practice the exercises on textbook
- * @author--Zheng Wang Stu.ID: 20085058
+ * @author--Zheng Wang
  */
 public class Chapter2Practice {
     public static void main(String[] args) {
