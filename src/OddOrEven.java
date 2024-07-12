@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  * This class tells an input to be odd or even
- * @author--Zheng Wang Stu.ID: 20085058
+ * @author--Zheng Wang
  */
 public class OddOrEven {
     public static void main(String[] args) {
